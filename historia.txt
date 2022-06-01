@@ -5,3 +5,5 @@ Jesus Alfaro tiene 39 años y nació en Perú
 Y estoy estudiando programacion y git
 
 Hoy estudiaremos de historia.
+
+Hoy empezamos proyecto real
